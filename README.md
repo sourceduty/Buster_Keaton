@@ -1,6 +1,6 @@
 ![Buster Keaton](https://github.com/sourceduty/Buster_Keaton/assets/123030236/ee14f070-c3ca-489e-a234-52293ea78f0d)
 
-> An iconic figure in silent cinema, is renowned for his breathtaking stunts and comedy.
+> An iconic figure in silent cinema, renowned for his breathtaking stunts and comedy.
 
 #
 
