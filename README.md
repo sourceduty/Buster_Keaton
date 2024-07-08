@@ -43,7 +43,6 @@ In essence, Buster Keaton's creative legacy extends far beyond his contributions
 
 [Set Stage Design](https://github.com/sourceduty/Set_Stage_Design)
 <br>
-<br>
 [Medical Equipment](https://github.com/sourceduty/Medical_Equipment)
 <br>
 [Camera](https://github.com/sourceduty/Camera)
