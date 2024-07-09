@@ -28,6 +28,19 @@ The saloon backdrop scene in Jackass Number Two directly echoes Keaton's famous 
 By incorporating elements inspired by Buster Keaton, the Jackass Number Two team pays tribute to a foundational figure in the history of physical comedy. This nod to Keaton acknowledges his role in shaping the genre and highlights the enduring appeal of his approach to stunt performance. The saloon backdrop set serves as a testament to Keaton's lasting impact on entertainers who push the boundaries of physical comedy and risk-taking, demonstrating that his legacy continues to inspire and resonate within contemporary popular culture.
 
 #
+### Falling Box Concept
+
+![Falling Box](https://github.com/sourceduty/Buster_Keaton/assets/123030236/d61a6af3-7f34-4cf4-abb3-db66077e4e9b)
+
+Inspired by Buster Keaton's famous falling house facade stunt, the scene opens with the actor standing calmly in an open, empty space, reminiscent of the classic silent film sets. The actor's stillness and composure set the stage for what appears to be an ordinary moment, with no hint of the impending chaos. Suddenly, from above, a large box begins to descend, its shadow looming ominously over the actor. The tension builds as the box drops swiftly, aligning perfectly with where the actor is standing.
+
+In a display of impeccable timing and precision, the box lands right over the actor, creating a heart-stopping moment for the audience. Yet, the actor remains unfazed, not even flinching as the box envelops them completely. The audience, initially shocked, soon realizes the cleverness of the stunt: the box is designed with a cleverly concealed front door. The stillness of the actor and the box's seamless fall emphasize the meticulous choreography required for this daring stunt.
+
+As the dust settles, the front door of the box swings open, revealing the actor standing exactly where they were before the box fell. With a casual air, the actor steps out, brushing off imaginary dust from their shoulders. Their calm demeanor contrasts sharply with the dramatic event that just occurred, adding a layer of humor and relief. This unexpected twist delights the audience, who were momentarily led to believe the actor was in danger.
+
+The actor's exit from the box is smooth and effortless, showcasing a mastery of physical comedy reminiscent of Buster Keaton's legendary stunts. The scene concludes with the actor walking away nonchalantly, leaving the audience in awe of the precision and creativity involved in the stunt. The clever use of the box, combined with the actor's unwavering composure, creates a memorable moment that pays homage to the timeless artistry of silent film comedy.
+
+#
 ### Water Wheel Inspiration
 
 ![Buster Keaton](https://github.com/sourceduty/Buster_Keaton/assets/123030236/af224813-4f6a-4871-87fe-bb427f4049fa)
